@@ -6,3 +6,8 @@ header {
     background-color: lightgrey;
     padding: 24px;
 }
+
+.radio-form {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+}
